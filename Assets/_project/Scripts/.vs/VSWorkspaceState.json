@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Effects",
+    "\\Managers",
+    "\\ShipControls",
+    "\\ShipSystems",
+    "\\UI",
+    "\\Weapons"
+  ],
+  "SelectedNode": "\\Weapons\\MissileLauncher.cs",
+  "PreviewInSolutionExplorer": false
+}
